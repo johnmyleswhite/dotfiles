@@ -17,6 +17,7 @@
 
 [alias]
     a=add
+    amend=commit --amend
     b=branch
     branches=branch --list
     c=commit -m
